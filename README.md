@@ -269,6 +269,10 @@ Close the MCM menu and wait for a message saying splicing complete. Then open th
   - Container Menu : Disabled
   - Crafting Menu : Disabled
 
+### Thieves Guild Req. 
+
+- Load Preset
+
 ### VioLens
 
 - Profile System → Menu Settings :
