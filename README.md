@@ -228,6 +228,10 @@ If it's not listed below then either the defaults are good enough or it's up to 
 - Presets :
   - Load user settings
 
+### Diverse Dragons Col. 3
+
+-Load Options. Close the MCM menu and wait for a message saying splicing complete. Then open the MCM menu again, and continue. 
+
 ### Follower Framework
 
 - System → Save/Load Configuration :
