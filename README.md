@@ -248,6 +248,9 @@ If it's not listed below then either the defaults are good enough or it's up to 
 - Quick Light → Brightness :
   - Brightness - Bright
 
+### Sacrosanct 
+- Fortitude : Disabled
+
 ### SkyUI
 
 - General → Item List :
