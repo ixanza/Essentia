@@ -173,7 +173,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 Werewolves are overhauled by [Growl](https://www.nexusmods.com/skyrimspecialedition/mods/31245), [Sacrosanct](https://www.nexusmods.com/skyrimspecialedition/mods/3928) for vampires.
 
-[Aetherious](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive.
+[Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive.
 
 [Mundus](https://www.nexusmods.com/skyrimspecialedition/mods/33411) is a streamlined Standing Stone overhaul designed to ensure that every stone fills a niche and offers competitive bonuses to different playstyles.
 
